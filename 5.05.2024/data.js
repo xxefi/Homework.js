@@ -43,4 +43,4 @@ time.hours = 20;
 time.minutes = 30;
 time.seconds = 45;
 
-/isplayTime()
+displayTime()
