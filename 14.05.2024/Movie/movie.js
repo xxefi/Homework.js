@@ -7,7 +7,6 @@ document.getElementById("search-button").addEventListener("click", function () {
   let pagination = document.getElementById("pagination");
   let details = document.getElementById("details");
   let results = document.getElementById("results");
-  let quit = document.getElementById("quit");
   let currentPage = 1;
   let totalPages = 1;
 
